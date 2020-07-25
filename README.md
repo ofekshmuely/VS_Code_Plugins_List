@@ -1,37 +1,37 @@
 # VS Code Plugins List
 
-* [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
-* [Babel ES6/ES7](https://marketplace.visualstudio.com/items?itemName=dzannotti.vscode-babel-coloring) 
-*[Beautify]
-*[Debugger for Chrome]
-*[ES7 React/Redux/GraphQL/React-Native snippets]
-*[Formatting Toggle]
-*[Docker]
-*[Color Highlight]
-*[Bracket Pair Colorizer]
-*[Horizon Theme]
-*[HTML Snippets]
-*[JavaScript (ES6) code snippets]
-*[Live Sass Compiler]
-*[Live Server]
-*[Material Theme Icons]
-*[MDX]
-*[npm]
-*[PowerShell]
-*[Prettier - Code formatter]
-*[Python]
-*[Quokka.js]
-*[REST Client]
-*[Sass]
-*[Sublime Babel]
-*[Svelte]
-*[SVG Viewer]
-*[SynthWave '84]
-*[Terminal]
-*[Vetur]
-*[Visual Studio IntelliCode]
-*[VSCode Great Icons]
-*[vscode-styled-components]
-*[Vue VS Code Extension Pack]
-*[Vue VSCode Snippets]
-*[WebAssembly]
+* [Auto Rename Tag]<br>
+* [Babel ES6/ES7]<br>
+*[Beautify]<br>
+*[Debugger for Chrome]<br>
+*[ES7 React/Redux/GraphQL/React-Native snippets]<br>
+*[Formatting Toggle]<br>
+*[Docker]<br>
+*[Color Highlight]<br>
+*[Bracket Pair Colorizer]<br>
+*[Horizon Theme]<br>
+*[HTML Snippets]<br>
+*[JavaScript (ES6) code snippets]<br>
+*[Live Sass Compiler]<br>
+*[Live Server]<br>
+*[Material Theme Icons]<br>
+*[MDX]<br>
+*[npm]<br>
+*[PowerShell]<br>
+*[Prettier - Code formatter]<br>
+*[Python]<br>
+*[Quokka.js]<br>
+*[REST Client]<br>
+*[Sass]<br>
+*[Sublime Babel]<br>
+*[Svelte]<br>
+*[SVG Viewer]<br>
+*[SynthWave '84]<br>
+*[Terminal]<br>
+*[Vetur]<br>
+*[Visual Studio IntelliCode]<br>
+*[VSCode Great Icons]<br>
+*[vscode-styled-components]<br>
+*[Vue VS Code Extension Pack]<br>
+*[Vue VSCode Snippets]<br>
+*[WebAssembly]<br>
